@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.nyumi.app"
         versionCode = "10"
-        version     = "1.13.0">
+        version     = "1.14.0">
 
     <name>Nyumi.ru</name>
 
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#FF6D00" />
+    <preference name="SplashScreenSpinnerColor" value="#FFB600" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
